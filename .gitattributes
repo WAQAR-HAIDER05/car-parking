@@ -1,0 +1,2 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+parking_1920_1080_loop.mp4 filter=lfs diff=lfs merge=lfs -text
